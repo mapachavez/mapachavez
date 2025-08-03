@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mapachavez👋</h1>
 
-<!--
-**mapachavez/mapachavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mariapauladev&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  
+  <tr>
+    <td width="60%">
+   
+      
+### 🚀 About Me
+
+- 🔭 I'm currently working on: **IoT projects with ESP32 + Firebase**  
+- 🌱 Learning: **React, Mapbox, Firebase, Machine Learning and cloud**  
+- 💬 Ask me about: **Embedded systems, Firebase Realtime DB (i love these )**  
+- 😄 Pronouns: she/her  
+
+    </td>
+    <td width="40%">
+      <img src="https://i.pinimg.com/736x/28/b4/17/28b417c2668c7081100ed8b5d1123d56.jpg" width="500px" alt="Zero Two" />
+    </td>
+  </tr>
+</table>
+
+
+---
+
+### 💻 Coding Habits & Stats
+
+<!-- GitHub Stats -->
+
+<!-- GitHub activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariapauladev&theme=github-compact" />
+</p>
+
+---
+
+### 📊 Language & Time Stats
+
+<!-- Profile language stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariapauladev&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🧠 Mastered Tech & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,firebase,arduino,raspberrypi,git,github,aws,docker,linux,figma,vscode,python,c++,c,java,platformio" />
+</p>
+
+---
+
+### 🌍 Let's connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/tuusuario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://instagram.com/tuusuario"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram"></a>
+</p>
+
