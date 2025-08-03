@@ -16,8 +16,8 @@
 
 - 🔭 I'm currently working on: **IoT projects with ESP32 + Firebase**  
 - 🌱 Learning: **React, Mapbox, Firebase, Machine Learning and cloud**  
-- 💬 Ask me about: **Embedded systems, Firebase Realtime DB (i love these )**  
-- 😄 Pronouns: she/her  
+- 💬 Ask me about: **Embedded systems, Firebase Realtime DB (i love these), networks and cybersecurity**  
+- 😄 I love cheese and cats
 
     </td>
     <td width="40%">
