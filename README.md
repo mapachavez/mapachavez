@@ -50,7 +50,7 @@
 ### 🌍 Let's connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/tuusuario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://instagram.com/tuusuario"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram"></a>
+  <a href="https://linkedin.com/in/mapachavez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://instagram.com/mapachavez1706"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram"></a>
 </p>
 
