@@ -29,16 +29,6 @@
 
 ---
 
-### 💻 Coding Habits & Stats
-
-<!-- GitHub Stats -->
-
-<!-- GitHub activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariapauladev&theme=github-compact" />
-</p>
-
----
 
 ### 📊 Language & Time Stats
 
